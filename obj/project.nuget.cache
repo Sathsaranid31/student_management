@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6wdv8fEEluzQ9eZpvJDeQNYKMXe8PUkiDpEXMbEvZ5OQYQrWZVKpDVaAu4FYOhylRYM+OvtDU9GrQ9wHcjcU2A==",
+  "success": true,
+  "projectFilePath": "D:\\EG_2020_4343\\DesktopApp\\DesktopApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
